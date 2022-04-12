@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "674237689613",
+    "project_id": "snackit-fe818",
+    "storage_bucket": "snackit-fe818.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674237689613:android:46cb3bfd1f987938d94a44",
+        "android_client_info": {
+          "package_name": "com.sa.snackit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674237689613-8vbvar8ugq93k2q73baghcdfce8bo4rf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sa.snackit",
+            "certificate_hash": "660b5e0b4e93f14526b9493d26c1185edefe0ad6"
+          }
+        },
+        {
+          "client_id": "674237689613-7i6i89gr8jn6uke794kid9u1tskr35pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVhlcSvLgxLuRi_ztlMm8ceP6UG5pJBnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674237689613-7i6i89gr8jn6uke794kid9u1tskr35pp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
